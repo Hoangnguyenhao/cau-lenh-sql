@@ -1,0 +1,1 @@
+DELETE FROM NhanVien WHERE MaNV = 'NV001';
