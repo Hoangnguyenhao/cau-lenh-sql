@@ -1,0 +1,1 @@
+DELETE FROM SanBay WHERE MaSB = 'HAN';
