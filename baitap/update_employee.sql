@@ -1,0 +1,3 @@
+UPDATE NhanVien 
+SET SDT = '0987999999' 
+WHERE MaNV = 'NV001';
